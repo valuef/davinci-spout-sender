@@ -17,6 +17,7 @@ Otherwise it's likely gonna get ignored.
 5. Change the name of the spout sender.
 
 ## Known Bugs
+* Output is upside down. Not fixing this currently as that would require CPU work to flip the incoming frame. Flip in receiver instead. Ping me if there's a way in D3D11 to flip on resource upload.
 * Dead senders will not clean up properly. This is likely due to Davinci Resolve not destroying instances of the plugin.
 * Might not handle RGB/Alpha formats properly.
 * Only supports davinci resolve. No desire to support other programs.
