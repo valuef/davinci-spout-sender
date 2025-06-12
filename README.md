@@ -1,6 +1,10 @@
 # Davinci Resolve Spout Sender
 OpenFX Spout sender for Davinci Resolve.
 
+
+https://github.com/user-attachments/assets/12aab686-c4bd-4b89-b273-9d3e0e335175
+
+
 ## Contributing
 If you're gonna do changes with the purpose of merging upstream, talk to me first: https://value.gay
 Otherwise it's likely gonna get ignored.
